@@ -1,0 +1,9 @@
+.App {
+  /* text-align: center; */
+  width: 100%;
+}
+
+.first-flex{
+  display: flex;
+  justify-content: space-between;
+}
